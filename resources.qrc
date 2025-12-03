@@ -1,8 +1,0 @@
-<RCC>
-    <qresource prefix="/">
-        <file>icons/关注.png</file>
-        <file>icons/库.png</file>
-        <file>icons/首页.png</file>
-        <file>icons/我的.png</file>
-    </qresource>
-</RCC>
